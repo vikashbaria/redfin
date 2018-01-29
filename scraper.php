@@ -1,4 +1,4 @@
-<?
+<?php
 require 'scraperwiki.php';
 require 'scraperwiki/simple_html_dom.php';
 $Links	=	array('https://www.redfin.com/county/536/GA/Cobb-County/filter/include=sold-1wk',
