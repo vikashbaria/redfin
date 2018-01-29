@@ -9,7 +9,7 @@ $Links	=	array('https://www.redfin.com/county/536/GA/Cobb-County/filter/include=
              );
 for ($mainpage = 0; $mainpage < sizeof($Links); $mainpage++)
 {
-  echo "$mainpage++"; 
+  echo $mainpage"; 
 }
 //
 // // Read in a page
